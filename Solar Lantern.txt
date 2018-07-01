@@ -1,0 +1,21 @@
+Partlist exported from /Users/aibbett/Dropbox/Engineering/ALICAD eagle/Solar Lantern/Solar Lantern.sch at 1/7/18 2:06 PM
+
+Part Value        Device                     Package                    Description                             PROD_ID    SF_SKU    SPICEPREFIX
+BT1  1.2V         BATTERY-AA                 BATTERY-AA                 Battery - Single Cell                   BATT-08316 PRT-07949            
+C1   47uF         CPOL-EUE3.5-8              E3,5-8                     POLARIZED CAPACITOR, European symbol                         C          
+C2   10uF         CPOL-EUE2.5-7              E2,5-7                     POLARIZED CAPACITOR, European symbol                         C          
+C3   10uF         CPOL-EUE2.5-7              E2,5-7                     POLARIZED CAPACITOR, European symbol                         C          
+D1   1N5819       SCHOTTKY-DIODEDO35-7       DO35-7                     Schottky Diode                                                          
+D2   White        LED5MM                     LED_5MM                    LED (Generic)                                                           
+D3   White        LED5MM                     LED_5MM                    LED (Generic)                                                           
+JP1  Solar        PINHD-1X2                  1X02                       PIN HEADER                                                              
+L1   100uH        L-EU0207/10                0207/10                    INDUCTOR, European symbol                                               
+Q1   BC557        BC557                      TO92                       PNP Transistor                                                          
+Q2   BC557        BC557                      TO92                       PNP Transistor                                                          
+R1   150K         R-US_0207/10               0207/10                    RESISTOR, American symbol                                    R          
+R2   150K         R-US_0207/10               0207/10                    RESISTOR, American symbol                                    R          
+R3   220R         R-US_0207/10               0207/10                    RESISTOR, American symbol                                    R          
+R4   220R         R-US_0207/10               0207/10                    RESISTOR, American symbol                                    R          
+S1   On/Off       SWITCH-SPDT-PTH-11.6X4.0MM SWITCH_SPDT_PTH_11.6X4.0MM Single Pole, Double Throw (SPDT) Switch SWCH-08261 COM-00102            
+S2   Flash/Steady SWITCH-SPDT-PTH-11.6X4.0MM SWITCH_SPDT_PTH_11.6X4.0MM Single Pole, Double Throw (SPDT) Switch SWCH-08261 COM-00102            
+U1   QX5252       QX5252                     TO94                       QX5252                                                                  
