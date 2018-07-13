@@ -225,26 +225,24 @@
 <library name="Alicad">
 <packages>
 <package name="TO94">
-<pad name="1" x="-1.905" y="0" drill="0.55" diameter="1.016" shape="octagon" rot="R90"/>
-<pad name="2" x="-0.635" y="0" drill="0.55" diameter="1.016" shape="octagon" rot="R90"/>
-<pad name="3" x="0.635" y="0" drill="0.5" diameter="1.016" shape="octagon" rot="R270"/>
-<pad name="4" x="1.905" y="0" drill="0.55" diameter="1.016" shape="octagon" rot="R90"/>
-<wire x1="-2.64" y1="0" x2="-2.64" y2="-0.32" width="0.127" layer="51"/>
+<pad name="1" x="-3.81" y="0" drill="0.55" diameter="1.016" shape="long" rot="R90"/>
+<pad name="2" x="-1.27" y="0" drill="0.55" diameter="1.016" shape="long" rot="R90"/>
+<pad name="3" x="1.27" y="0" drill="0.5" diameter="1.016" shape="long" rot="R270"/>
+<pad name="4" x="3.81" y="0" drill="0.55" diameter="1.016" shape="long" rot="R90"/>
 <wire x1="-2.04" y1="-1.02" x2="2.04" y2="-1.02" width="0.127" layer="51"/>
 <wire x1="-2.64" y1="0.9" x2="2.64" y2="0.9" width="0.127" layer="51"/>
 <wire x1="-2.64" y1="-0.32" x2="-2.04" y2="-1.02" width="0.127" layer="51"/>
-<wire x1="2.64" y1="0" x2="2.64" y2="-0.32" width="0.127" layer="51"/>
 <wire x1="2.64" y1="-0.32" x2="2.04" y2="-1.02" width="0.127" layer="51"/>
-<wire x1="-2.64" y1="0.9" x2="-2.64" y2="0" width="0.127" layer="51"/>
-<wire x1="2.64" y1="0.9" x2="2.64" y2="0" width="0.127" layer="51"/>
+<wire x1="-2.64" y1="0.9" x2="-2.64" y2="-0.32" width="0.127" layer="51"/>
+<wire x1="2.64" y1="0.9" x2="2.64" y2="-0.32" width="0.127" layer="51"/>
 <wire x1="-3.175" y1="1.27" x2="-3.175" y2="-0.635" width="0.127" layer="21"/>
 <wire x1="-3.175" y1="-0.635" x2="-2.54" y2="-1.27" width="0.127" layer="21"/>
 <wire x1="-2.54" y1="-1.27" x2="2.54" y2="-1.27" width="0.127" layer="21"/>
 <wire x1="2.54" y1="-1.27" x2="3.175" y2="-0.635" width="0.127" layer="21"/>
 <wire x1="3.175" y1="-0.635" x2="3.175" y2="1.27" width="0.127" layer="21"/>
 <wire x1="3.175" y1="1.27" x2="-3.175" y2="1.27" width="0.127" layer="21"/>
-<text x="3.81" y="0" size="1.27" layer="25">&gt;Name</text>
-<text x="3.81" y="-1.27" size="1.016" layer="27">&gt;Value</text>
+<text x="4.953" y="0.381" size="1.27" layer="25">&gt;Name</text>
+<text x="4.699" y="-1.524" size="1.016" layer="27">&gt;Value</text>
 </package>
 </packages>
 <symbols>
@@ -18808,11 +18806,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="104,1,27.94,53.34,U1,VSS,GND,,,"/>
-<approved hash="104,1,58.42,40.64,BT1,-,GND,,,"/>
-<approved hash="104,1,58.42,50.8,BT1,+,N$13,,,"/>
-</errors>
 </schematic>
 </drawing>
 <compatibility>
